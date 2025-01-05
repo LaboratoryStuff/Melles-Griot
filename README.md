@@ -10,6 +10,8 @@ Drawings are based on the measurement of real items and the Melles Griot catalog
 
 07 HFR 003 : Multiple Filter Holder.
 
+---
+
 07 PHS 001 : Standard Post Holder, Metric Bore 12 mm. Length 30 mm, stud M16.
 
 07 PHS 003 : Standard Post Holder, Metric Bore 12 mm. Length 50 mm, stud M16.
