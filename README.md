@@ -21,9 +21,6 @@ Items to be added:
 - 07 PHS 006 : Standard Post Holder, Metric Bore 12 mm. Length 80 mm, stud M16.
 - 07 PHS 008 : Standard Post Holder, Metric Bore 12 mm. Length 1200 mm, stud M16.
 - 07 PHS 511 : Standard Post Holder, Metric Bore 12 mm. Length 30 mm, stud M6.
-
-07 PHS 513 : Standard Post Holder, Metric Bore 12 mm. Length 50 mm, stud M6.
-
-07 PHS 516 : Standard Post Holder, Metric Bore 12 mm. Length 80 mm, stud M6.
-
-07 PHS 518 : Standard Post Holder, Metric Bore 12 mm. Length 120 mm, stud M6.
+- 07 PHS 513 : Standard Post Holder, Metric Bore 12 mm. Length 50 mm, stud M6.
+- 07 PHS 516 : Standard Post Holder, Metric Bore 12 mm. Length 80 mm, stud M6.
+- 07 PHS 518 : Standard Post Holder, Metric Bore 12 mm. Length 120 mm, stud M6.
